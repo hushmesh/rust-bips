@@ -63,5 +63,5 @@ pub use self::language::Spanish;
 pub use self::{
     error::Error,
     language::{English, Language},
-    mnemonic::{Count, Mnemonic},
+    mnemonic::{Count, Mnemonic, Sha},
 };
